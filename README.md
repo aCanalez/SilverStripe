@@ -3,5 +3,3 @@
 A Navigation menu for SilverStripe that functions with Zurb Foundation as expected. 
 
 This menu has the correct classes for UL and LI elements .has-dropdown .dropdown
-
-Menu is to be used for main site navigation. 
